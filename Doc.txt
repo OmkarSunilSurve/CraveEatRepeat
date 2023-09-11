@@ -1,0 +1,39 @@
+ACTORS AND THEIR ROLES:
+• CUSTOMER:
+➢ User registration and Login
+➢ Placing order and Payment
+➢ Adding items to cart
+➢ Rating and Feedback
+➢ View order History and Logout
+• RESTAURANT OWNER/MANAGER:
+➢ Restaurant Registration
+➢ Menu management
+➢ Receiving and Confirming Orders
+➢ Order Status Updates
+➢ Promotions and Discounts
+➢ View Customer Feedback and Ratings
+• RESTAURANT CHEF/KITCHEN STAFF:
+➢ Receiving Orders and Order Verification
+➢ Food preparation and Order packaging
+➢ Order timing, Order Status and marking Order completion
+➢ Managing Multiple Orders
+• Administrator:
+➢ User Account Management:
+o Create and manage user accounts for customers, restaurant owners and
+other system users.
+o Handle user authentication, password resets, and account deactivation
+➢ System Configuration:
+o Ensure the system operates smoothly by monitoring server performance and
+resources.
+➢ Database Maintenance:
+o Perform regular database backups and maintenance to ensure data integrity
+and availability.
+o Monitor database performance and optimize queries for efficient data
+retrieval.
+➢ Security Management:
+o Implement and enforce security measures to protect user data and system
+resources.
+o Manage access control and permissions to restrict unauthorized access.
+➢ Backup and Disaster Recovery:
+o Develop and maintain backup and disaster recovery plans to minimize data
+loss and system downtime in case of unforeseen events.

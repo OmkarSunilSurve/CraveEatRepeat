@@ -1,0 +1,7 @@
+body {
+    background-image: url('path_to_your_image.jpg'); /* Replace with the path to your image file */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
